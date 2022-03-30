@@ -26,9 +26,9 @@ console.log(citie);     // [ "Manchester" ]
 
 //To remove the first item from an array, use shift():
 
-const cities = ['Manchester', 'Liverpool'];
+const citi = ['Manchester', 'Liverpool'];
 cities.shift();
-console.log(cities);     // [ "Liverpool" ]
+console.log(citi);     // [ "Liverpool" ]
 
 
 //If you know the index of an item, you can remove it from the array using splice():
