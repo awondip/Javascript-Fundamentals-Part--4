@@ -8,7 +8,7 @@ console.log(shopping[0]);
 
 //You can also modify an item in an array by giving a single array item a new value. Try this:
 
-let items = ['bread', 'milk', 'cheese', 'hummus', 'noodles'];
+const items = ['bread', 'milk', 'cheese', 'hummus', 'noodles'];
 items[0] = 'tahini';
 console.log(items);
 // shopping will now return [ "tahini", "milk", "cheese", "hummus", "noodles" ]
